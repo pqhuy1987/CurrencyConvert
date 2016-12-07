@@ -48,12 +48,12 @@ class ConverterView: UIViewController, ConverterViewProtocol, UITextFieldDelegat
     // MARK: Methods
 
     func configureView() {
-        navigationItem.title = "Currency Converter"
+        navigationItem.title = "Current Currency"
         self.addPullToRefresh()
         self.presenter?.loadView()
         
         //google ads
-        bannerView.adUnitID = "ca-app-pub-4961045217927492/3331079163"
+        bannerView.adUnitID = "ca-app-pub-5722562744549789/7019831759"
         bannerView.rootViewController = self
         bannerView.load(GADRequest())
     }

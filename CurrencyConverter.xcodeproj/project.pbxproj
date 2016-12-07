@@ -1034,7 +1034,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = CelerStudio;
 				TargetAttributes = {
 					D561841A1D9BAFE4003F95F2 = {
